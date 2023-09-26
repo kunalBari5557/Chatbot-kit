@@ -28,6 +28,30 @@
   color: #61dafb;
 }
 
+.Admin{
+  background-color: '#AA768 !important';
+  width: 20px;
+  height: 20px;
+  display: grid !important;
+  place-items: center !important;
+  font-size: 14px;
+  border-radius: 100%;
+  color: black;
+}
+
+.start-btn{
+  background-color: #61045F;
+  color:white;
+  padding: .5rem 1rem;
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+}
+
+.slow-btn{
+  margin-left: 1rem;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
